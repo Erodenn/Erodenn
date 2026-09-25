@@ -1,3 +1,1 @@
-# Owen Sterling
-
 Game engine developer and AI systems researcher. Currently building Silver Engine, a full 2D/3D C++20 game engine architected ECS-first on Flecs with WebGPU rendering via Dawn. University-sponsored research in context engineering, the design of the input environments that coding agents operate in. Areas of interest include engine architecture, game development, agent-oriented API design, and agentic harnesses.

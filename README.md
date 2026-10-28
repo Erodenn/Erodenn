@@ -1,1 +1,3 @@
 Game engine developer and now an AI systems researcher based in NYC. One engine written, my next being worked on; architected ECS-first on Flecs with WebGPU rendering via Dawn. University-sponsored research in the frontier of agentic engineering. Areas of interest include low level systems, memory management, engine architecture, game development, context engineering, and agentic harnesses.
+
+I'm also a new open source contributor/maintainer trying to navigate this new age of software, and I'm passionate about understanding and preparing responsibly for what this all means for us. Reach out if you are interested in collaborating.
